@@ -179,7 +179,7 @@ Employee
 
 ---
 
-## Generalization
+## 📌 Generalization
 
 ### 1. ความหมายของ Generalization
 * Generalization คือกระบวนการ “รวม” (Bottom-Up)
